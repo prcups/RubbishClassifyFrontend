@@ -1,0 +1,15 @@
+{
+	"images-path": "../assets/images",
+
+  "set-upload-address": "v-signal.xyz",
+  "set-upload-port": 29186,
+  "set-upload-position": "/home/classify/set",
+  "set-upload-username": "classify",
+  "set-upload-password": "Hidamari6",
+
+  "classify-upload-address": "v-signal.xyz",
+  "classify-upload-port": 29186,
+  "classify-upload-position": "/home/classify/images",
+  "classify-upload-username": "classify",
+  "classify-upload-password": "Hidamari6"
+}
